@@ -1,13 +1,14 @@
 Day 1 -- the shell, and basic programming
 =========================================
 
-
 .. toctree::
    :maxdepth: 2
 
    introductions
 
    1-Shell/index
+
+   python-day1
 
 ----
 
